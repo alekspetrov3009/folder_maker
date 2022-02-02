@@ -25,6 +25,7 @@ def make_folders():
     os.mkdir(p_number + '.60.00.00 Вторичные цепи')
     
 make_folders() 
+#make_folders()
     
 print(path)
 print('Папки созданы')
